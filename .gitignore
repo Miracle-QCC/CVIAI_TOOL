@@ -1,0 +1,9 @@
+ 
+# 忽略当前文件夹下的image
+/image
+ 
+# 忽略当前目录中TXT
+/TXT
+
+.idea
+
